@@ -1,4 +1,5 @@
 # AWS VPC Creation with Terraform
+
 This project will create a VCP with Internet Gateway, subnets accross 2 AZs: one public
 and one one private.
 
